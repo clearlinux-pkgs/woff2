@@ -4,7 +4,7 @@
 #
 Name     : woff2
 Version  : 1.0.2
-Release  : 2
+Release  : 3
 URL      : https://github.com/google/woff2/archive/v1.0.2.tar.gz
 Source0  : https://github.com/google/woff2/archive/v1.0.2.tar.gz
 Summary  : No detailed summary available
